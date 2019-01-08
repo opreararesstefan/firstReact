@@ -34,7 +34,7 @@ class App extends Component {
                 />
                 <h3>Add New</h3>
                 <Form handleSubmit={this.handleSubmit} />
-                 <button><h5> <a style={{ "color": "white" }} href="https://github.com/opreararesstefan/firstReact">View source on Github</a></h5></button>
+                 <button><h5> <a href="https://github.com/opreararesstefan/firstReact">View source on Github</a></h5></button>
             </div>
         );
     }
